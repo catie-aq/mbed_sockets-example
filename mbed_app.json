@@ -11,8 +11,8 @@
     "target_overrides": {
         "*": {
             "nsapi.default-wifi-security": "WPA_WPA2",
-            "nsapi.default-wifi-ssid": "\"YOUR_SSID\"",
-            "nsapi.default-wifi-password": "\"YOUR_PASSWORD\"",
+            "nsapi.default-wifi-ssid": "\"TESTTEST\"",
+            "nsapi.default-wifi-password": "\"6tron2020\"",
             "platform.stdio-baud-rate": 9600,
             "mbed-trace.enable": false,
             "mbed-trace.max-level": "TRACE_LEVEL_DEBUG",
@@ -25,7 +25,7 @@
             "nina_w132.tx": "UART1_TX",
             "nina_w132.rx": "UART1_RX",
             "nina_w132.rst": "DIO2",
-            "nina_w132.debug": true,
+            "nina_w132.debug": false,
             "target.macros_add" : ["MBEDTLS_SHA1_C"]
         },
         "ZEST_CORE_STM32H753ZI": {
