@@ -13,7 +13,7 @@
             "nsapi.default-wifi-security": "WPA_WPA2",
             "nsapi.default-wifi-ssid": "\"TESTTEST\"",
             "nsapi.default-wifi-password": "\"6tron2020\"",
-            "platform.stdio-baud-rate": 9600,
+            "platform.stdio-baud-rate": 115200,
             "mbed-trace.enable": false,
             "mbed-trace.max-level": "TRACE_LEVEL_DEBUG",
             "rtos.main-thread-stack-size": 8192
